@@ -92,7 +92,7 @@ $
 
 ```
 
-### [0. List all databases](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/0-list_databases)
+### [0. List all databases](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/0-list_databases)
 
 Write a script that lists all databases in MongoDB.
 
@@ -110,7 +110,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [1. Create a database](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/1-use_or_create_database)
+### [1. Create a database](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/1-use_or_create_database)
 
 Write a script that creates or uses the database  `my_db`:
 
@@ -135,7 +135,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [2. Insert document](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/2-insert)
+### [2. Insert document](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/2-insert)
 
 Write a script that inserts a document in the collection  `school`:
 
@@ -154,7 +154,7 @@ guillaume@ubuntu:~/0x01$
 ```
 
 
-### [3. All documents](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/3-all)
+### [3. All documents](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/3-all)
 
 Write a script that lists all documents in the collection  `school`:
 
@@ -171,7 +171,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [4. All matches](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/4-match)
+### [4. All matches](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/4-match)
 
 Write a script that lists all documents with  `name="Holberton school"`  in the collection  `school`:
 
@@ -188,7 +188,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [5. Count](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/5-count)
+### [5. Count](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/5-count)
 
 Write a script that displays the number of documents in the collection  `school`:
 
@@ -205,7 +205,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [6. Update](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/6-update)
+### [6. Update](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/6-update)
 
 Write a script that adds a new attribute to a document in the collection  `school`:
 
@@ -231,7 +231,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [7. Delete by match](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/7-delete)
+### [7. Delete by match](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/7-delete)
 
 Write a script that deletes all documents with  `name="Holberton school"`  in the collection  `school`:
 
@@ -254,7 +254,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [8. List all documents in Python](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/8-all.py)
+### [8. List all documents in Python](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/8-all.py)
 
 Write a Python function that lists all documents in a collection:
 
@@ -284,7 +284,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [9. Insert a document in Python](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/9-insert_school.py)
+### [9. Insert a document in Python](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/9-insert_school.py)
 
 Write a Python function that inserts a new document in a collection based on  `kwargs`:
 
@@ -320,7 +320,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [10. Change school topics](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/10-update_topics.py)
+### [10. Change school topics](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/10-update_topics.py)
 
 Write a Python function that changes all topics of a school document based on the name:
 
@@ -364,7 +364,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [11. Where can I learn Python?](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/11-schools_by_topic.py)
+### [11. Where can I learn Python?](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/11-schools_by_topic.py)
 
 Write a Python function that returns the list of school having a specific topic:
 
@@ -407,7 +407,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [12. Log stats](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/12-log_stats.py)
+### [12. Log stats](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/12-log_stats.py)
 
 Write a Python script that provides some stats about Nginx logs stored in MongoDB:
 
@@ -466,7 +466,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [13. Regex filter](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/100-find)
+### [13. Regex filter](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/100-find)
 
 Write a script that lists all documents with  `name`  starting by  `Holberton`  in the collection  `school`:
 
@@ -485,7 +485,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [14. Top students](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/101-students.py)
+### [14. Top students](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/101-students.py)
 
 Write a Python function that returns all students sorted by average score:
 
@@ -541,7 +541,7 @@ guillaume@ubuntu:~/0x01$
 
 ```
 
-### [15. Log stats - new version](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQL/102-log_stats.py)
+### [15. Log stats - new version](https://github.com/vpnchengo/alx-backend-storage/blob/main/0x01-NoSQ/102-log_stats.py)
 
 Improve  `12-log_stats.py`  by adding the top 10 of the most present IPs in the collection  `nginx`  of the database  `logs`:
 
