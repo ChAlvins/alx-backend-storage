@@ -42,7 +42,7 @@ def replay(method: Callable):
 
     inputs = cache._redis.lrange(input_key, 0, -1)
     outputs = cache._redis.lrange(output_key, 0, -1)
-    print("{} was called {} times".format(function_name, len(inputs)))
+    print("{} was called {} times:".format(function_name, len(inputs)))
     for inp, outp in zip(inputs, outputs):
         print("{}(*{}) -> {}".format(function_name, inp.decode('utf-8'),
                                      outp.decode('utf-8')))
