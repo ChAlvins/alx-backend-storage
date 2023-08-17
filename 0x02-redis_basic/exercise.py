@@ -3,7 +3,7 @@
 
 import redis
 import uuid
-from typing import Union, Callable, Optionali
+from typing import Union, Callable, Optional
 from functools import wraps
 
 
